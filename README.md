@@ -10,3 +10,4 @@ Topics Covered:
 3. Data Visualization using matplotlib
 4. Data Visualization using seaborn
 5. Scikit-learn for machine learning
+6. Linear Regression and its types
